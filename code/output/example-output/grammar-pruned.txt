@@ -1,0 +1,578 @@
+interminals S @S NP^g @NP^g ADJP^g VP^g @VP^g PP^g UCP^g @UCP^g S^g|NP^g S^g RRC^g S^g|VP^g RRC^g|VP^g ADVP^g QP^g @QP^g SBAR^g SINV @SINV SBAR^g|S^g @PP^g @S^g NAC^g @NAC^g @SBAR^g PRN^g @PRN^g SINV^g NP^g|QP^g SBAR^g|S^g|VP^g FRAG @FRAG CONJP^g S^g|ADJP^g @ADVP^g 
+preterminals NNP , CD NNS JJ MD VB DT NN IN . VBZ NP^g|NN VBG CC VBD VBN ADVP^g|RB TO NP^g|NNS NP^g|PRP RBR VP^g|VBD RB WHNP^g|WDT VBP PRT^g|RP PRP$ NP^g|CD JJS POS NP^g|NNP `` NP^g|DT NP^g|EX '' WHNP^g|WP VP^g|VBN : JJR S^g|VP^g|VBN ADJP^g|JJ WHADVP^g|WRB VP^g|VB ADVP^g|RP $ S^g|VP^g|VBD VP^g|VBZ NP^g|RB ADVP^g|JJR NP^g|JJR NP^g|JJ 
+root S 1 1:0.9400000000000001 
+root SINV 1 1:0.04 
+root FRAG 1 1:0.02 
+term NNP -> NNP 1 1:3.679284027110114 
+term , -> , 1 1:4.0 
+term CD -> CD 1 1:2.322222222222222 
+term NNS -> years 1 1:0.5384615384615384 
+term JJ -> JJ 1 1:2.8064525882922107 
+term MD -> will 1 1:1.0 
+term VB -> VB 1 1:3.0 
+term DT -> the 1 1:1.669777641778866 
+term NN -> NN 1 1:3.0933561448172666 
+term IN -> IN 1 1:0.7861247947454844 
+term DT -> a 1 1:0.6975214198286415 
+term . -> . 1 1:4.0 
+term VBZ -> is 1 1:1.2 
+term NP^g|NN -> NP^g|NN 1 1:1.9 
+term IN -> of 1 1:0.5948275862068966 
+term VBG -> VBG 1 1:4.0 
+term CC -> and 1 1:2.3054545454545456 
+term VBD -> was 1 1:0.7420634920634921 
+term VBN -> VBN 1 1:4.0 
+term DT -> this 1 1:0.1475928192574459 
+term DT -> DT 1 1:0.4528862478777589 
+term NP^g|NN -> asbestos 1 1:1.0 
+term ADVP^g|RB -> ADVP^g|RB 1 1:4.0 
+term TO -> to 1 1:4.0 
+term NNP -> Kent 1 1:0.07575757575757576 
+term NNS -> filters 1 1:0.11764705882352941 
+term VBZ -> has 1 1:1.0 
+term NNS -> NNS 1 1:2.437168713639302 
+term NP^g|NNS -> workers 1 1:0.16666666666666666 
+term NP^g|PRP -> it 1 1:1.5396825396825395 
+term RBR -> more 1 1:3.0 
+term IN -> than 1 1:0.0673076923076923 
+term NP^g|NNS -> researchers 1 1:0.6666666666666666 
+term VP^g|VBD -> VP^g|VBD 1 1:1.0 
+term DT -> The 1 1:0.821236559139785 
+term NN -> asbestos 1 1:0.05832633845480091 
+term NP^g|NN -> crocidolite 1 1:1.0 
+term RB -> RB 1 1:3.0 
+term VBZ -> VBZ 1 1:1.2 
+term IN -> with 1 1:0.11538461538461539 
+term NP^g|NNS -> NP^g|NNS 1 1:1.9696969696969697 
+term WHNP^g|WDT -> that 1 1:1.0 
+term VBP -> VBP 1 1:2.0 
+term PRT^g|RP -> PRT^g|RP 1 1:3.0 
+term VP^g|VBD -> said 1 1:2.0 
+term NNP -> Lorillard 1 1:0.04381654381654382 
+term VBD -> VBD 1 1:1.8888888888888888 
+term IN -> in 1 1:0.27884615384615385 
+term PRP$ -> its 1 1:3.0 
+term NP^g|CD -> NP^g|CD 1 1:4.0 
+term VBD -> were 1 1:0.3412698412698413 
+term NN -> year 1 1:0.18544943615196524 
+term JJS -> JJS 1 1:4.0 
+term POS -> 's 1 1:3.0 
+term NP^g|NNP -> NP^g|NNP 1 1:2.0 
+term JJ -> new 1 1:1.0 
+term VBD -> said 1 1:1.0277777777777777 
+term `` -> `` 1 1:4.0 
+term NP^g|DT -> NP^g|DT 1 1:4.0 
+term DT -> an 1 1:0.14978580171358627 
+term NP^g|PRP -> NP^g|PRP 1 1:1.7777777777777777 
+term NP^g|NNS -> years 1 1:0.030303030303030304 
+term DT -> any 1 1:0.06119951040391677 
+term NP^g|EX -> NP^g|EX 1 1:2.0 
+term PRP$ -> PRP$ 1 1:1.0 
+term '' -> '' 1 1:4.0 
+term NP^g|NNP -> Lorillard 1 1:1.0 
+term CC -> CC 1 1:1.04 
+term NNS -> researchers 1 1:0.02857142857142857 
+term WHNP^g|WP -> who 1 1:4.0 
+term NNS -> workers 1 1:0.09103641456582633 
+term IN -> on 1 1:0.11538461538461539 
+term VBP -> have 1 1:1.0 
+term VBP -> are 1 1:1.0 
+term IN -> at 1 1:0.11538461538461539 
+term IN -> from 1 1:0.1346153846153846 
+term IN -> for 1 1:1.0476190476190477 
+term CD -> billion 1 1:0.8444444444444444 
+term VP^g|VBN -> VP^g|VBN 1 1:3.0 
+term NN -> company 1 1:0.08062873785544365 
+term : -> -- 1 1:3.0 
+term JJ -> more 1 1:0.020833333333333332 
+term JJR -> JJR 1 1:4.0 
+term S^g|VP^g|VBN -> S^g|VP^g|VBN 1 1:1.0 
+term NN -> factory 1 1:0.10328820116054158 
+term WHNP^g|WDT -> WHNP^g|WDT 1 1:3.0 
+term IN -> by 1 1:0.10576923076923077 
+term CC -> & 1 1:0.45454545454545453 
+term NP^g|NN -> Lorillard 1 1:0.1 
+term IN -> that 1 1:0.3333333333333333 
+term NNP -> U.S. 1 1:0.14558629776021081 
+term MD -> MD 1 1:3.0 
+term RB -> n't 1 1:1.0 
+term VB -> have 1 1:1.0 
+term RBR -> RBR 1 1:1.0 
+term ADJP^g|JJ -> ADJP^g|JJ 1 1:1.0 
+term WHADVP^g|WRB -> WHADVP^g|WRB 1 1:3.0 
+term NN -> crocidolite 1 1:0.01818181818181818 
+term PRT^g|RP -> in 1 1:1.0 
+term NP^g|NNS -> filters 1 1:1.0 
+term VBZ -> 's 1 1:0.6 
+term NNS -> managers 1 1:0.5196078431372549 
+term NNS -> funds 1 1:0.1319327731092437 
+term VP^g|VB -> VP^g|VB 1 1:2.0 
+term NNS -> rates 1 1:0.13557422969187674 
+term JJ -> average 1 1:0.17271407837445574 
+term NN -> yield 1 1:0.0986415882967607 
+term NN -> % 1 1:0.18267975789120877 
+term NN -> week 1 1:0.10019342359767891 
+term POS -> POS 1 1:1.0 
+term IN -> because 1 1:0.2573260073260073 
+term NP^g|PRP -> they 1 1:0.6825396825396826 
+term NP^g|NNS -> funds 1 1:0.16666666666666666 
+term ADVP^g|RP -> ADVP^g|RP 1 1:2.0 
+term $ -> $ 1 1:3.0 
+term : -> : 1 1:1.0 
+term S^g|VP^g|VBD -> S^g|VP^g|VBD 1 1:1.0 
+term CC -> or 1 1:0.2 
+term CD -> million 1 1:0.8333333333333334 
+term NN -> government 1 1:0.07925455359251507 
+term VP^g|VBZ -> VP^g|VBZ 1 1:1.0 
+term NP^g|RB -> NP^g|RB 1 1:1.0 
+term IN -> like 1 1:0.04807692307692308 
+term ADVP^g|JJR -> more 1 1:1.0 
+term VP^g|VBD -> were 1 1:1.0 
+term NP^g|JJR -> NP^g|JJR 1 1:1.0 
+term NP^g|NNP -> October 1 1:1.0 
+term NNP -> October 1 1:0.05555555555555555 
+term NP^g|JJ -> NP^g|JJ 1 1:1.0 
+binary S -> @S . 1 1 1 1,1,1:3.9565217391304346 
+binary @S -> NP^g VP^g 1 1 1 1,1,1:0.4326923076923077 
+binary NP^g -> @NP^g , 1 1 1 1,1,1:0.22487562189054727 
+binary @NP^g -> @NP^g ADJP^g 1 1 1 1,1,1:0.023809523809523808 
+binary @NP^g -> NP^g , 1 1 1 1,1,1:0.25216426193118757 
+binary NP^g -> NNP NNP 1 1 1 1,1,1:0.312953529068637 
+binary ADJP^g -> NP^g JJ 1 1 1 1,1,1:0.375 
+binary NP^g -> CD NNS 1 1 1 1,1,1:0.06299825004860976 
+binary VP^g -> MD VP^g 1 1 1 1,1,1:0.22937062937062935 
+binary VP^g -> @VP^g NP^g 1 1 1 1,1,1:0.11979686979686979 
+binary @VP^g -> @VP^g PP^g 1 1 1 1,1,1:0.2219986586183769 
+binary @VP^g -> VB NP^g 1 1 1 1,1,1:0.5571428571428572 
+binary NP^g -> DT NN 1 1 1 1,1,1:0.2933112969084192 
+binary PP^g -> IN NP^g 1 1 1 1,1,1:2.193681318681319 
+binary NP^g -> @NP^g NN 1 1 1 1,1,1:0.6504208686298238 
+binary @NP^g -> DT JJ 1 1 1 1,1,1:0.48178171043387064 
+binary NP^g -> NNP CD 1 1 1 1,1,1:0.007194244604316547 
+binary VP^g -> VBZ NP^g 1 1 1 1,1,1:0.2681818181818182 
+binary NP^g -> NP^g|NN PP^g 1 1 1 1,1,1:0.021582733812949638 
+binary NP^g -> @NP^g NP^g 1 1 1 1,1,1:0.11950248756218908 
+binary @NP^g -> @NP^g VBG 1 1 1 1,1,1:0.04747899159663865 
+binary @NP^g -> DT NNP 1 1 1 1,1,1:0.1548198230304758 
+binary @NP^g -> @NP^g UCP^g 1 1 1 1,1,1:0.011904761904761904 
+binary UCP^g -> @UCP^g NP^g 1 1 1 1,1,1:1.0 
+binary @UCP^g -> ADJP^g CC 1 1 1 1,1,1:1.0 
+binary NP^g -> NP^g PP^g 1 1 1 1,1,1:0.42251993000194443 
+binary NP^g -> JJ NN 1 1 1 1,1,1:0.05940112774645149 
+binary NP^g -> @NP^g NNP 1 1 1 1,1,1:0.27399757966922145 
+binary @NP^g -> @NP^g NNP 1 1 1 1,1,1:0.33858675545689976 
+binary @NP^g -> NNP NNP 1 1 1 1,1,1:0.18607663248785755 
+binary VP^g -> VBD VP^g 1 1 1 1,1,1:0.1512987012987013 
+binary VP^g -> VBN S^g|NP^g 1 1 1 1,1,1:0.04285714285714286 
+binary S^g|NP^g -> NP^g PP^g 1 1 1 1,1,1:2.0 
+binary @NP^g -> @NP^g JJ 1 1 1 1,1,1:0.1325537762274721 
+binary @S -> @S VP^g|VBD 1 1 1 1,1,1:0.07692307692307693 
+binary @S -> @S NP^g|NNS 1 1 1 1,1,1:0.09294871794871795 
+binary @S -> S^g , 1 1 1 1,1,1:1.0 
+binary S^g -> NP^g VP^g 1 1 1 1,1,1:1.6249999999999998 
+binary NP^g -> NP^g RRC^g 1 1 1 1,1,1:0.0035971223021582736 
+binary PP^g -> IN NP^g|NN 1 1 1 1,1,1:0.2692307692307692 
+binary RRC^g -> ADVP^g|RB VP^g 1 1 1 1,1,1:1.0 
+binary VP^g -> VBN S^g|VP^g 1 1 1 1,1,1:0.05714285714285714 
+binary S^g|VP^g -> TO VP^g 1 1 1 1,1,1:0.9842105263157894 
+binary VP^g -> VB NP^g 1 1 1 1,1,1:0.31428571428571433 
+binary NP^g -> @NP^g NNS 1 1 1 1,1,1:0.2957832459324997 
+binary @NP^g -> NNP NN 1 1 1 1,1,1:0.01834862385321101 
+binary VP^g -> VBZ VP^g 1 1 1 1,1,1:0.10113220113220113 
+binary VP^g -> VBN NP^g 1 1 1 1,1,1:0.04285714285714286 
+binary NP^g -> @NP^g PP^g 1 1 1 1,1,1:0.03237410071942446 
+binary @NP^g -> NP^g PP^g 1 1 1 1,1,1:0.135304687912901 
+binary NP^g -> NN NNS 1 1 1 1,1,1:0.10387322574372934 
+binary NP^g -> NP^g|NNS RRC^g|VP^g 1 1 1 1,1,1:0.004975124378109453 
+binary RRC^g|VP^g -> @VP^g ADVP^g 1 1 1 1,1,1:1.0 
+binary @VP^g -> VBN PP^g 1 1 1 1,1,1:0.10395707578806171 
+binary PP^g -> TO NP^g|PRP 1 1 1 1,1,1:0.038461538461538464 
+binary ADVP^g -> NP^g IN 1 1 1 1,1,1:1.0 
+binary NP^g -> QP^g NNS 1 1 1 1,1,1:0.007194244604316547 
+binary QP^g -> @QP^g CD 1 1 1 1,1,1:0.75 
+binary @QP^g -> RBR IN 1 1 1 1,1,1:0.1111111111111111 
+binary @NP^g -> @NP^g NP^g|NN 1 1 1 1,1,1:0.023809523809523808 
+binary @NP^g -> DT NN 1 1 1 1,1,1:0.24541946257471312 
+binary VP^g -> @VP^g PP^g 1 1 1 1,1,1:0.6235431235431235 
+binary @VP^g -> @VP^g , 1 1 1 1,1,1:0.2069081153588196 
+binary @VP^g -> @VP^g SBAR^g 1 1 1 1,1,1:0.047619047619047616 
+binary @VP^g -> VBZ ADJP^g 1 1 1 1,1,1:0.023809523809523808 
+binary ADJP^g -> RB JJ 1 1 1 1,1,1:0.5 
+binary SBAR^g -> IN S^g 1 1 1 1,1,1:1.846078431372549 
+binary S^g -> NP^g|PRP VP^g 1 1 1 1,1,1:1.0833333333333333 
+binary NP^g -> DT NNS 1 1 1 1,1,1:0.0539568345323741 
+binary PP^g -> IN S^g 1 1 1 1,1,1:0.02857142857142857 
+binary @NP^g -> RB JJ 1 1 1 1,1,1:0.009174311926605505 
+binary VP^g -> VBG NP^g 1 1 1 1,1,1:0.09415584415584416 
+binary NP^g -> NP^g|NNS SBAR^g 1 1 1 1,1,1:0.023597122302158276 
+binary SBAR^g -> WHNP^g|WDT S^g|VP^g 1 1 1 1,1,1:1.1264705882352941 
+binary S^g|VP^g -> @VP^g ADVP^g 1 1 1 1,1,1:0.1 
+binary @VP^g -> VBP PRT^g|RP 1 1 1 1,1,1:0.028169014084507043 
+binary ADVP^g -> NP^g|NNS JJ 1 1 1 1,1,1:0.1 
+binary @NP^g -> @NP^g NP^g 1 1 1 1,1,1:0.14487870619946092 
+binary NP^g -> @NP^g SBAR^g 1 1 1 1,1,1:0.038389135404060776 
+binary @NP^g -> ADJP^g NNP 1 1 1 1,1,1:0.011764705882352941 
+binary ADJP^g -> JJ JJ 1 1 1 1,1,1:0.3333333333333333 
+binary S^g|VP^g -> VBZ NP^g 1 1 1 1,1,1:0.5 
+binary NP^g -> NNP NNS 1 1 1 1,1,1:0.0035971223021582736 
+binary @VP^g -> VBG NP^g|NN 1 1 1 1,1,1:0.023809523809523808 
+binary @NP^g -> @NP^g NN 1 1 1 1,1,1:0.27979229427620106 
+binary @NP^g -> PRP$ NN 1 1 1 1,1,1:0.03721654838151289 
+binary PP^g -> IN NP^g|CD 1 1 1 1,1,1:0.11538461538461539 
+binary @S -> @S VP^g 1 1 1 1,1,1:0.25 
+binary @S -> @S NP^g 1 1 1 1,1,1:0.5651709401709403 
+binary @S -> SBAR^g , 1 1 1 1,1,1:0.08 
+binary NP^g -> JJ NNS 1 1 1 1,1,1:0.06115107913669064 
+binary VP^g -> VBN ADVP^g 1 1 1 1,1,1:0.014285714285714285 
+binary NP^g -> QP^g NN 1 1 1 1,1,1:0.008572246680267726 
+binary QP^g -> @QP^g DT 1 1 1 1,1,1:0.25 
+binary @NP^g -> DT JJS 1 1 1 1,1,1:0.05364274150026983 
+binary VP^g -> VBP PP^g 1 1 1 1,1,1:0.03554778554778555 
+binary @NP^g -> NP^g NNP 1 1 1 1,1,1:0.06784917879216773 
+binary NP^g -> NN POS 1 1 1 1,1,1:0.013513513513513514 
+binary PP^g -> IN NP^g|NNP 1 1 1 1,1,1:0.25 
+binary NP^g -> NP^g ADJP^g 1 1 1 1,1,1:0.0035971223021582736 
+binary ADJP^g -> JJ S^g|VP^g 1 1 1 1,1,1:0.2 
+binary PP^g -> TO NP^g 1 1 1 1,1,1:0.24862637362637363 
+binary VP^g -> @VP^g S^g 1 1 1 1,1,1:0.01282051282051282 
+binary @VP^g -> @VP^g `` 1 1 1 1,1,1:0.014084507042253521 
+binary @VP^g -> VBD , 1 1 1 1,1,1:0.023809523809523808 
+binary S^g -> NP^g|DT VP^g 1 1 1 1,1,1:0.041666666666666664 
+binary @S -> NP^g|PRP VP^g 1 1 1 1,1,1:0.057692307692307696 
+binary VP^g -> VBP VP^g 1 1 1 1,1,1:0.13408258408258408 
+binary VP^g -> VBG PP^g 1 1 1 1,1,1:0.01282051282051282 
+binary PP^g -> IN ADVP^g 1 1 1 1,1,1:0.009615384615384616 
+binary ADVP^g -> ADVP^g SBAR^g 1 1 1 1,1,1:0.5 
+binary ADVP^g -> NP^g|NNS IN 1 1 1 1,1,1:0.1 
+binary S^g -> NP^g|NN VP^g 1 1 1 1,1,1:0.16666666666666666 
+binary VP^g -> VBD PP^g 1 1 1 1,1,1:0.049833499833499835 
+binary S -> @S '' 1 1 1 1,1,1:0.043478260869565216 
+binary @S -> @S . 1 1 1 1,1,1:0.009615384615384616 
+binary @S -> NP^g|EX VP^g 1 1 1 1,1,1:0.009615384615384616 
+binary VP^g -> @VP^g ADVP^g|RB 1 1 1 1,1,1:0.07840492840492841 
+binary @VP^g -> VBZ NP^g 1 1 1 1,1,1:0.06170355466130114 
+binary NP^g -> PRP$ NNS 1 1 1 1,1,1:0.014388489208633094 
+binary @NP^g -> @NP^g CC 1 1 1 1,1,1:0.18671581840283286 
+binary @NP^g -> DT NP^g|NNP 1 1 1 1,1,1:0.009433962264150943 
+binary NP^g -> NP^g SBAR^g 1 1 1 1,1,1:0.021582733812949638 
+binary SBAR^g -> WHNP^g|WP S^g|VP^g 1 1 1 1,1,1:0.2875816993464052 
+binary S^g|VP^g -> VBD NP^g 1 1 1 1,1,1:0.10526315789473684 
+binary VP^g -> VBD ADJP^g 1 1 1 1,1,1:0.03701298701298701 
+binary ADJP^g -> JJ PP^g 1 1 1 1,1,1:0.6666666666666666 
+binary NP^g -> NP^g|NNS PP^g 1 1 1 1,1,1:0.12588761423293796 
+binary SINV -> @SINV . 1 1 1 1,1,1:3.0 
+binary @SINV -> @SINV NP^g 1 1 1 1,1,1:1.0 
+binary @SINV -> @SINV VP^g|VBD 1 1 1 1,1,1:0.75 
+binary @SINV -> @SINV '' 1 1 1 1,1,1:0.5 
+binary @SINV -> @SINV , 1 1 1 1,1,1:0.5 
+binary @SINV -> `` S^g 1 1 1 1,1,1:1.0 
+binary VP^g -> VBP NP^g 1 1 1 1,1,1:0.05974025974025974 
+binary PP^g -> IN SBAR^g 1 1 1 1,1,1:0.009615384615384616 
+binary S^g -> NP^g|NNS VP^g 1 1 1 1,1,1:0.16666666666666666 
+binary NP^g -> NNP POS 1 1 1 1,1,1:0.047734785144857086 
+binary VP^g -> VBD NP^g 1 1 1 1,1,1:0.2396103896103896 
+binary @NP^g -> NP^g CC 1 1 1 1,1,1:0.10355160932297447 
+binary VP^g -> VBD SBAR^g|S^g 1 1 1 1,1,1:0.1 
+binary SBAR^g|S^g -> NP^g|NN VP^g 1 1 1 1,1,1:0.25 
+binary VP^g -> @VP^g VP^g 1 1 1 1,1,1:0.23195138195138193 
+binary @VP^g -> VP^g CC 1 1 1 1,1,1:0.4904761904761905 
+binary PP^g -> @PP^g '' 1 1 1 1,1,1:0.02857142857142857 
+binary @PP^g -> @PP^g NP^g 1 1 1 1,1,1:0.3333333333333333 
+binary @PP^g -> IN `` 1 1 1 1,1,1:1.0 
+binary NP^g -> ADJP^g NNS 1 1 1 1,1,1:0.008572246680267726 
+binary PP^g -> IN S^g|VP^g 1 1 1 1,1,1:0.06208791208791209 
+binary S^g|VP^g -> VBG NP^g 1 1 1 1,1,1:0.6000000000000001 
+binary NP^g -> @NP^g CD 1 1 1 1,1,1:0.004975124378109453 
+binary S^g -> @S^g VP^g 1 1 1 1,1,1:0.3333333333333333 
+binary @S^g -> @S^g NP^g 1 1 1 1,1,1:1.0 
+binary @S^g -> PP^g , 1 1 1 1,1,1:0.5 
+binary PP^g -> PP^g PP^g 1 1 1 1,1,1:0.05714285714285714 
+binary PP^g -> TO NP^g|CD 1 1 1 1,1,1:0.019230769230769232 
+binary @NP^g -> QP^g NNP 1 1 1 1,1,1:0.009174311926605505 
+binary QP^g -> CD CD 1 1 1 1,1,1:1.0 
+binary VP^g -> VBD VP^g|VBN 1 1 1 1,1,1:0.045454545454545456 
+binary @S -> @S NP^g|CD 1 1 1 1,1,1:0.027777777777777776 
+binary @S -> PP^g , 1 1 1 1,1,1:0.36 
+binary S^g|VP^g -> @VP^g PP^g 1 1 1 1,1,1:0.15263157894736842 
+binary @VP^g -> VBD ADVP^g|RB 1 1 1 1,1,1:0.028169014084507043 
+binary @VP^g -> VBN : 1 1 1 1,1,1:0.014084507042253521 
+binary @NP^g -> @NP^g VBN 1 1 1 1,1,1:0.023809523809523808 
+binary @NP^g -> QP^g DT 1 1 1 1,1,1:0.009433962264150943 
+binary QP^g -> @QP^g NNS 1 1 1 1,1,1:1.0 
+binary @QP^g -> @QP^g CD 1 1 1 1,1,1:1.0 
+binary @QP^g -> JJ IN 1 1 1 1,1,1:1.0 
+binary NP^g -> NP^g|CD PP^g 1 1 1 1,1,1:0.03438848920863309 
+binary @NP^g -> DT CD 1 1 1 1,1,1:0.04006659267480577 
+binary @VP^g -> VBP NP^g 1 1 1 1,1,1:0.051978537894030855 
+binary PP^g -> VBG NP^g 1 1 1 1,1,1:0.014285714285714285 
+binary NP^g -> ADJP^g NN 1 1 1 1,1,1:0.009950248756218905 
+binary ADJP^g -> RB VBN 1 1 1 1,1,1:0.2 
+binary NP^g -> @NP^g NP^g|NN 1 1 1 1,1,1:0.004975124378109453 
+binary NP^g -> NN NN 1 1 1 1,1,1:0.06484542096052888 
+binary ADJP^g -> ADJP^g SBAR^g 1 1 1 1,1,1:0.3333333333333333 
+binary ADJP^g -> RB JJR 1 1 1 1,1,1:0.125 
+binary SBAR^g -> IN S^g|VP^g|VBN 1 1 1 1,1,1:0.1111111111111111 
+binary @NP^g -> NP^g|DT PP^g 1 1 1 1,1,1:0.011764705882352941 
+binary PP^g -> IN NP^g|PRP 1 1 1 1,1,1:0.019230769230769232 
+binary S^g|VP^g -> VBP NP^g 1 1 1 1,1,1:0.05263157894736842 
+binary @S -> @S NP^g|PRP 1 1 1 1,1,1:0.1111111111111111 
+binary @NP^g -> NN NN 1 1 1 1,1,1:0.011764705882352941 
+binary @NP^g -> DT NAC^g 1 1 1 1,1,1:0.018608274190756446 
+binary NAC^g -> @NAC^g , 1 1 1 1,1,1:1.0 
+binary @NAC^g -> @NAC^g NNP 1 1 1 1,1,1:1.0 
+binary @NAC^g -> @NAC^g , 1 1 1 1,1,1:1.0 
+binary @NAC^g -> NNP NNP 1 1 1 1,1,1:1.0 
+binary VP^g -> VBZ S^g|VP^g 1 1 1 1,1,1:0.0512987012987013 
+binary NP^g -> DT JJS 1 1 1 1,1,1:0.01079136690647482 
+binary NP^g -> NP^g RRC^g|VP^g 1 1 1 1,1,1:0.008572246680267726 
+binary RRC^g|VP^g -> VBN PP^g 1 1 1 1,1,1:1.0 
+binary @NP^g -> JJ VBN 1 1 1 1,1,1:0.011764705882352941 
+binary @NP^g -> @NP^g SBAR^g 1 1 1 1,1,1:0.023809523809523808 
+binary S^g|VP^g -> VBZ VP^g 1 1 1 1,1,1:0.16666666666666666 
+binary VP^g -> VBN PP^g 1 1 1 1,1,1:0.11428571428571428 
+binary @NP^g -> NNP CC 1 1 1 1,1,1:0.021198668146503882 
+binary NP^g -> @NP^g S^g|VP^g 1 1 1 1,1,1:0.009950248756218905 
+binary @NP^g -> NP^g|NN PP^g 1 1 1 1,1,1:0.023669467787114845 
+binary @S^g -> NP^g ADVP^g|RB 1 1 1 1,1,1:1.0 
+binary NP^g -> NP^g|DT SBAR^g 1 1 1 1,1,1:0.0035971223021582736 
+binary S^g|VP^g -> VBP SBAR^g 1 1 1 1,1,1:0.05263157894736842 
+binary NP^g -> DT NNP 1 1 1 1,1,1:0.05798561151079137 
+binary VP^g -> @VP^g ADVP^g 1 1 1 1,1,1:0.07547452547452548 
+binary PP^g -> VBG NP^g|NN 1 1 1 1,1,1:0.019230769230769232 
+binary ADVP^g -> ADVP^g PP^g 1 1 1 1,1,1:0.1 
+binary ADVP^g -> RBR RB 1 1 1 1,1,1:0.2 
+binary NP^g -> NP^g VP^g 1 1 1 1,1,1:0.020741615662693724 
+binary @NP^g -> @NP^g , 1 1 1 1,1,1:0.07794249775381851 
+binary NP^g -> JJS NNS 1 1 1 1,1,1:0.013513513513513514 
+binary S^g|VP^g -> @VP^g VP^g 1 1 1 1,1,1:0.05263157894736842 
+binary @VP^g -> VBZ RB 1 1 1 1,1,1:0.30456069751844395 
+binary @NP^g -> DT JJR 1 1 1 1,1,1:0.03011332973556395 
+binary PP^g -> @PP^g NP^g|NN 1 1 1 1,1,1:0.019230769230769232 
+binary @PP^g -> JJ IN 1 1 1 1,1,1:0.3333333333333333 
+binary S^g|VP^g -> VBP VP^g 1 1 1 1,1,1:0.16666666666666666 
+binary PP^g -> IN NP^g|NNS 1 1 1 1,1,1:0.11538461538461539 
+binary PP^g -> VBG PP^g 1 1 1 1,1,1:0.04285714285714286 
+binary NAC^g -> NNP PP^g 1 1 1 1,1,1:1.0 
+binary @NP^g -> RBR JJ 1 1 1 1,1,1:0.009433962264150943 
+binary VP^g -> VBP ADJP^g|JJ 1 1 1 1,1,1:0.02857142857142857 
+binary @VP^g -> ADVP^g VBN 1 1 1 1,1,1:0.014084507042253521 
+binary @VP^g -> VBD NP^g 1 1 1 1,1,1:0.22736418511066397 
+binary ADJP^g -> RB DT 1 1 1 1,1,1:0.4 
+binary @NP^g -> ADJP^g VBG 1 1 1 1,1,1:0.009174311926605505 
+binary VP^g -> VB VP^g|VBN 1 1 1 1,1,1:0.014285714285714285 
+binary QP^g -> IN CD 1 1 1 1,1,1:1.0 
+binary PP^g -> TO NP^g|NN 1 1 1 1,1,1:0.019230769230769232 
+binary NP^g -> DT CD 1 1 1 1,1,1:0.0035971223021582736 
+binary VP^g -> @VP^g SBAR^g 1 1 1 1,1,1:0.14102564102564102 
+binary @VP^g -> VBD ADJP^g 1 1 1 1,1,1:0.014084507042253521 
+binary SBAR^g -> WHADVP^g|WRB S^g 1 1 1 1,1,1:0.4 
+binary @S -> NP^g|NNS VP^g 1 1 1 1,1,1:0.028846153846153848 
+binary @VP^g -> @VP^g CC 1 1 1 1,1,1:0.06666666666666667 
+binary @VP^g -> @VP^g VP^g 1 1 1 1,1,1:0.09047619047619047 
+binary @VP^g -> VP^g , 1 1 1 1,1,1:0.03789403085177733 
+binary @NP^g -> JJ NN 1 1 1 1,1,1:0.06707022777953141 
+binary @NP^g -> DT VBN 1 1 1 1,1,1:0.020939017808958446 
+binary @VP^g -> VBD PRT^g|RP 1 1 1 1,1,1:0.07578806170355466 
+binary @NP^g -> NN CC 1 1 1 1,1,1:0.03954729199971489 
+binary @VP^g -> @VP^g NP^g 1 1 1 1,1,1:0.04225352112676056 
+binary @VP^g -> ADVP^g|RB VBD 1 1 1 1,1,1:0.023809523809523808 
+binary RRC^g|VP^g -> VBN S^g|VP^g 1 1 1 1,1,1:1.0 
+binary VP^g -> VB NP^g|NNS 1 1 1 1,1,1:0.05714285714285714 
+binary @NP^g -> @NP^g '' 1 1 1 1,1,1:0.011904761904761904 
+binary @NP^g -> @NP^g PP^g 1 1 1 1,1,1:0.021338724168912845 
+binary @NP^g -> `` NP^g|NNS 1 1 1 1,1,1:0.009174311926605505 
+binary S^g|VP^g -> @VP^g SBAR^g 1 1 1 1,1,1:0.2 
+binary @VP^g -> VBD PP^g 1 1 1 1,1,1:0.227364185110664 
+binary SBAR^g -> @SBAR^g S^g 1 1 1 1,1,1:0.058823529411764705 
+binary @SBAR^g -> RB IN 1 1 1 1,1,1:1.0 
+binary S^g -> NP^g|EX VP^g 1 1 1 1,1,1:0.3333333333333333 
+binary NP^g -> NP^g|DT PP^g 1 1 1 1,1,1:0.0035971223021582736 
+binary @NP^g -> DT NNS 1 1 1 1,1,1:0.05608447290981478 
+binary @S -> `` CC 1 1 1 1,1,1:0.04 
+binary VP^g -> VBP S^g|VP^g 1 1 1 1,1,1:0.02564102564102564 
+binary VP^g -> VB SBAR^g 1 1 1 1,1,1:0.02857142857142857 
+binary @VP^g -> VBD NP^g|NN 1 1 1 1,1,1:0.014084507042253521 
+binary NP^g -> NP^g NP^g|NN 1 1 1 1,1,1:0.004975124378109453 
+binary @NP^g -> JJ JJ 1 1 1 1,1,1:0.030372980073109387 
+binary @VP^g -> VBD S^g|VP^g 1 1 1 1,1,1:0.023809523809523808 
+binary S^g|VP^g -> TO VP^g|VB 1 1 1 1,1,1:0.2 
+binary NP^g -> NNS SBAR^g 1 1 1 1,1,1:0.0035971223021582736 
+binary NP^g -> CD NN 1 1 1 1,1,1:0.046762589928057555 
+binary VP^g -> VBD NP^g|NNP 1 1 1 1,1,1:0.02857142857142857 
+binary VP^g -> VBP UCP^g 1 1 1 1,1,1:0.01282051282051282 
+binary UCP^g -> @UCP^g SBAR^g 1 1 1 1,1,1:1.0 
+binary @UCP^g -> NP^g CC 1 1 1 1,1,1:1.0 
+binary VP^g -> VBZ PP^g 1 1 1 1,1,1:0.022727272727272728 
+binary NP^g -> NP^g NNS 1 1 1 1,1,1:0.0035971223021582736 
+binary NP^g -> @NP^g POS 1 1 1 1,1,1:0.15006050826946352 
+binary NP^g -> JJ NNP 1 1 1 1,1,1:0.007194244604316547 
+binary NP^g -> JJR NNS 1 1 1 1,1,1:0.04719424460431655 
+binary @NP^g -> VBG NN 1 1 1 1,1,1:0.009174311926605505 
+binary VP^g -> VBP S^g 1 1 1 1,1,1:0.022727272727272728 
+binary VP^g -> TO VP^g 1 1 1 1,1,1:0.045454545454545456 
+binary @NP^g -> RB JJR 1 1 1 1,1,1:0.009174311926605505 
+binary @VP^g -> VBN S^g|NP^g 1 1 1 1,1,1:0.014084507042253521 
+binary NP^g -> VBG NNS 1 1 1 1,1,1:0.0035971223021582736 
+binary @NP^g -> @NP^g RRC^g|VP^g 1 1 1 1,1,1:0.011904761904761904 
+binary NP^g -> NP^g|NNS ADJP^g 1 1 1 1,1,1:0.004975124378109453 
+binary PP^g -> @PP^g NP^g|NNS 1 1 1 1,1,1:0.009615384615384616 
+binary @PP^g -> ADVP^g|RB TO 1 1 1 1,1,1:1.0 
+binary RRC^g|VP^g -> @VP^g S^g|VP^g 1 1 1 1,1,1:1.0 
+binary PP^g -> IN NP^g|DT 1 1 1 1,1,1:0.038461538461538464 
+binary NP^g -> NP^g PRN^g 1 1 1 1,1,1:0.007194244604316547 
+binary PRN^g -> : NP^g 1 1 1 1,1,1:1.0 
+binary @S -> @S `` 1 1 1 1,1,1:0.027777777777777776 
+binary @S -> ADVP^g|RB PRN^g 1 1 1 1,1,1:0.009615384615384616 
+binary PRN^g -> @PRN^g , 1 1 1 1,1,1:1.0 
+binary @PRN^g -> , SINV^g 1 1 1 1,1,1:1.0 
+binary SINV^g -> VP^g|VBD NP^g 1 1 1 1,1,1:1.0 
+binary @VP^g -> @VP^g '' 1 1 1 1,1,1:0.014084507042253521 
+binary @VP^g -> @VP^g ADVP^g|RB 1 1 1 1,1,1:0.023809523809523808 
+binary @VP^g -> VB ADVP^g|RP 1 1 1 1,1,1:0.023809523809523808 
+binary VP^g -> VBP ADVP^g|RP 1 1 1 1,1,1:0.022727272727272728 
+binary PP^g -> @PP^g NP^g 1 1 1 1,1,1:0.03818681318681318 
+binary @PP^g -> IN IN 1 1 1 1,1,1:0.6666666666666666 
+binary @S -> @S , 1 1 1 1,1,1:0.17555555555555555 
+binary @S -> @S PP^g 1 1 1 1,1,1:0.028846153846153848 
+binary @S -> NP^g , 1 1 1 1,1,1:0.12 
+binary @NP^g -> JJ NNP 1 1 1 1,1,1:0.009174311926605505 
+binary NP^g -> NP^g NN 1 1 1 1,1,1:0.023463762269732416 
+binary @VP^g -> VB NP^g|NN 1 1 1 1,1,1:0.13333333333333333 
+binary PP^g -> IN NP^g|QP^g 1 1 1 1,1,1:0.19532967032967033 
+binary NP^g|QP^g -> @QP^g CD 1 1 1 1,1,1:4.0 
+binary @QP^g -> $ CD 1 1 1 1,1,1:0.7777777777777778 
+binary PP^g -> TO NP^g|QP^g 1 1 1 1,1,1:0.07142857142857142 
+binary @S -> ADVP^g|RB , 1 1 1 1,1,1:0.12 
+binary VP^g -> VB PP^g 1 1 1 1,1,1:0.05714285714285714 
+binary @VP^g -> VBP ADVP^g|RB 1 1 1 1,1,1:0.06666666666666667 
+binary @QP^g -> RB IN 1 1 1 1,1,1:0.05555555555555555 
+binary ADVP^g -> RB PP^g 1 1 1 1,1,1:0.2 
+binary PP^g -> @PP^g ADVP^g 1 1 1 1,1,1:0.009615384615384616 
+binary @PP^g -> IN NP^g 1 1 1 1,1,1:0.3333333333333333 
+binary ADVP^g -> NP^g JJR 1 1 1 1,1,1:0.5 
+binary @VP^g -> VBZ ADVP^g|RB 1 1 1 1,1,1:0.09047619047619047 
+binary NP^g -> PRP$ NN 1 1 1 1,1,1:0.017110635815671786 
+binary @S -> @S S^g 1 1 1 1,1,1:0.028846153846153848 
+binary @S -> S^g : 1 1 1 1,1,1:0.009615384615384616 
+binary @NP^g -> @NP^g CD 1 1 1 1,1,1:0.03571428571428571 
+binary @NP^g -> DT ADJP^g 1 1 1 1,1,1:0.02107907383136741 
+binary ADJP^g -> CD NN 1 1 1 1,1,1:0.3333333333333333 
+binary S^g|NP^g -> DT NN 1 1 1 1,1,1:0.5 
+binary @NP^g -> ADVP^g|RB DT 1 1 1 1,1,1:0.009174311926605505 
+binary SBAR^g -> WHNP^g|WP S^g|VP^g|VBD 1 1 1 1,1,1:0.1111111111111111 
+binary @NP^g -> NP^g CD 1 1 1 1,1,1:0.009433962264150943 
+binary SBAR^g|S^g -> NP^g|NNS VP^g 1 1 1 1,1,1:0.25 
+binary NP^g -> @NP^g NP^g|QP^g 1 1 1 1,1,1:0.004975124378109453 
+binary NP^g -> NP^g NP^g 1 1 1 1,1,1:0.017110635815671786 
+binary NP^g -> $ CD 1 1 1 1,1,1:0.0035971223021582736 
+binary SBAR^g|S^g -> NP^g|PRP VP^g 1 1 1 1,1,1:0.5 
+binary SBAR^g|S^g -> NP^g VP^g 1 1 1 1,1,1:2.0 
+binary @NP^g -> PRP$ NNP 1 1 1 1,1,1:0.01834862385321101 
+binary @NP^g -> @NP^g . 1 1 1 1,1,1:0.011904761904761904 
+binary @S -> NP^g|NNP VP^g 1 1 1 1,1,1:0.009615384615384616 
+binary @NP^g -> @NP^g VP^g 1 1 1 1,1,1:0.011904761904761904 
+binary NP^g -> @NP^g NP^g|NNP 1 1 1 1,1,1:0.009950248756218905 
+binary @NP^g -> NP^g|NNP , 1 1 1 1,1,1:0.030632630410654827 
+binary @NP^g -> @NP^g NNS 1 1 1 1,1,1:0.040206648697214735 
+binary @QP^g -> IN $ 1 1 1 1,1,1:1.0 
+binary @NP^g -> NNP NNS 1 1 1 1,1,1:0.011764705882352941 
+binary S^g -> NP^g|NNP VP^g 1 1 1 1,1,1:0.16666666666666666 
+binary @S^g -> SBAR^g , 1 1 1 1,1,1:0.5 
+binary S^g -> NP^g|NNP VP^g|VBZ 1 1 1 1,1,1:0.08333333333333333 
+binary @NP^g -> NP^g NN 1 1 1 1,1,1:0.011904761904761904 
+binary @VP^g -> @VP^g NP^g|NNP 1 1 1 1,1,1:0.023809523809523808 
+binary NP^g -> NP^g|NN SBAR^g|S^g|VP^g 1 1 1 1,1,1:0.02 
+binary SBAR^g|S^g|VP^g -> TO VP^g 1 1 1 1,1,1:1.0 
+binary @S -> @S CC 1 1 1 1,1,1:0.027777777777777776 
+binary @VP^g -> VB PP^g 1 1 1 1,1,1:0.26666666666666666 
+binary PP^g -> IN NP^g|RB 1 1 1 1,1,1:0.019230769230769232 
+binary S^g|NP^g -> @NP^g PP^g 1 1 1 1,1,1:0.5 
+binary @S -> PP^g NP^g|PRP 1 1 1 1,1,1:0.027777777777777776 
+binary @VP^g -> VBN NP^g 1 1 1 1,1,1:0.03789403085177733 
+binary @S -> @S ADVP^g|RB 1 1 1 1,1,1:0.027777777777777776 
+binary @NP^g -> PRP$ JJ 1 1 1 1,1,1:0.011764705882352941 
+binary @NP^g -> NP^g VBG 1 1 1 1,1,1:0.011904761904761904 
+binary FRAG -> @FRAG . 1 1 1 1,1,1:2.0 
+binary @FRAG -> RB NP^g 1 1 1 1,1,1:0.5 
+binary @S -> CC NP^g 1 1 1 1,1,1:0.027777777777777776 
+binary VP^g -> VBD S^g|VP^g 1 1 1 1,1,1:0.014285714285714285 
+binary @PP^g -> ADVP^g|JJR IN 1 1 1 1,1,1:0.3333333333333333 
+binary @NP^g -> NP^g|NN CC 1 1 1 1,1,1:0.023529411764705882 
+binary @FRAG -> @FRAG S^g|VP^g 1 1 1 1,1,1:0.5 
+binary @FRAG -> @FRAG : 1 1 1 1,1,1:1.0 
+binary @FRAG -> @FRAG PP^g 1 1 1 1,1,1:1.0 
+binary @FRAG -> NP^g , 1 1 1 1,1,1:1.0 
+binary @NP^g -> CD JJ 1 1 1 1,1,1:0.009433962264150943 
+binary SBAR^g -> @SBAR^g SBAR^g 1 1 1 1,1,1:0.058823529411764705 
+binary @SBAR^g -> SBAR^g , 1 1 1 1,1,1:1.0 
+binary @VP^g -> @VP^g ADJP^g 1 1 1 1,1,1:0.014084507042253521 
+binary VP^g -> TO VP^g|VB 1 1 1 1,1,1:0.022727272727272728 
+binary @SINV -> PP^g VP^g|VBD 1 1 1 1,1,1:0.25 
+binary @NP^g -> DT VBG 1 1 1 1,1,1:0.009174311926605505 
+binary @NP^g -> @NP^g CONJP^g 1 1 1 1,1,1:0.011764705882352941 
+binary CONJP^g -> IN IN 1 1 1 1,1,1:1.0 
+binary @S -> NP^g VP^g|VBD 1 1 1 1,1,1:0.009615384615384616 
+binary @NP^g -> NP^g|NNS CC 1 1 1 1,1,1:0.011764705882352941 
+binary VP^g -> @VP^g S^g|ADJP^g 1 1 1 1,1,1:0.01282051282051282 
+binary S^g|ADJP^g -> JJ PP^g 1 1 1 1,1,1:1.0 
+binary @S -> @S IN 1 1 1 1,1,1:0.027777777777777776 
+binary @VP^g -> MD RB 1 1 1 1,1,1:0.06666666666666667 
+binary VP^g -> VB NP^g|PRP 1 1 1 1,1,1:0.014285714285714285 
+binary @NP^g -> @NP^g NP^g|NNS 1 1 1 1,1,1:0.009433962264150943 
+binary @NP^g -> RB DT 1 1 1 1,1,1:0.009433962264150943 
+binary @NP^g -> NNP CD 1 1 1 1,1,1:0.009174311926605505 
+binary @S -> S^g|NP^g , 1 1 1 1,1,1:0.04 
+binary S^g|NP^g -> DT NNS 1 1 1 1,1,1:1.0 
+binary VP^g -> @VP^g SBAR^g|S^g 1 1 1 1,1,1:0.01282051282051282 
+binary SBAR^g|S^g -> @S^g VP^g 1 1 1 1,1,1:1.0 
+binary @S^g -> NP^g|PRP ADVP^g|RB 1 1 1 1,1,1:1.0 
+binary NP^g -> @NP^g NP^g|CD 1 1 1 1,1,1:0.004975124378109453 
+binary @S -> ADVP^g , 1 1 1 1,1,1:0.04 
+binary ADVP^g -> RB NN 1 1 1 1,1,1:0.1 
+binary S^g|VP^g -> @VP^g ADVP^g|RB 1 1 1 1,1,1:0.1 
+binary @VP^g -> VBG NP^g 1 1 1 1,1,1:0.04225352112676056 
+binary NP^g -> @NP^g ADVP^g 1 1 1 1,1,1:0.009950248756218905 
+binary @NP^g -> NP^g : 1 1 1 1,1,1:0.011764705882352941 
+binary ADVP^g -> NP^g RB 1 1 1 1,1,1:0.5 
+binary @VP^g -> VBD NP^g|PRP 1 1 1 1,1,1:0.014084507042253521 
+binary @S -> S^g|VP^g , 1 1 1 1,1,1:0.04 
+binary ADJP^g -> JJ PRN^g 1 1 1 1,1,1:0.3333333333333333 
+binary PRN^g -> @PRN^g : 1 1 1 1,1,1:1.0 
+binary @PRN^g -> @PRN^g JJ 1 1 1 1,1,1:1.0 
+binary @PRN^g -> : CC 1 1 1 1,1,1:1.0 
+binary VP^g -> VBP NP^g|CD 1 1 1 1,1,1:0.022727272727272728 
+binary NP^g -> NP^g|JJR PP^g 1 1 1 1,1,1:0.02 
+binary VP^g -> VBP SBAR^g|S^g 1 1 1 1,1,1:0.014285714285714285 
+binary VP^g -> VBZ S^g 1 1 1 1,1,1:0.02857142857142857 
+binary @S -> CC PP^g 1 1 1 1,1,1:0.009615384615384616 
+binary PP^g -> IN ADVP^g|RB 1 1 1 1,1,1:0.019230769230769232 
+binary @VP^g -> VBG ADVP^g|RB 1 1 1 1,1,1:0.014084507042253521 
+binary PRN^g -> @PRN^g PP^g 1 1 1 1,1,1:1.0 
+binary @PRN^g -> : NP^g|NNP 1 1 1 1,1,1:1.0 
+binary @VP^g -> @VP^g S^g|VP^g 1 1 1 1,1,1:0.023809523809523808 
+binary @NP^g -> NP^g JJ 1 1 1 1,1,1:0.03284377971372035 
+binary VP^g -> @VP^g S^g|VP^g 1 1 1 1,1,1:0.01282051282051282 
+binary @NP^g -> NP^g|QP^g , 1 1 1 1,1,1:0.021198668146503882 
+binary ADJP^g -> QP^g NN 1 1 1 1,1,1:0.2 
+binary @QP^g -> DT JJ 1 1 1 1,1,1:0.05555555555555555 
+binary NP^g -> @NP^g JJR 1 1 1 1,1,1:0.004975124378109453 
+binary ADVP^g -> @ADVP^g PP^g 1 1 1 1,1,1:0.5 
+binary @ADVP^g -> RB NP^g 1 1 1 1,1,1:1.0 
+binary S^g|VP^g -> VBD PP^g 1 1 1 1,1,1:0.16666666666666666 
+binary @NP^g -> VBN NN 1 1 1 1,1,1:0.009174311926605505 
+binary @VP^g -> @VP^g ADVP^g 1 1 1 1,1,1:0.014084507042253521 
+binary ADVP^g -> IN IN 1 1 1 1,1,1:0.1 
+binary PP^g -> TO NP^g|NNP 1 1 1 1,1,1:0.019230769230769232 
+binary @NP^g -> NP^g VBN 1 1 1 1,1,1:0.011904761904761904 
+binary ADVP^g -> RB NP^g 1 1 1 1,1,1:0.1 
+binary @S -> @S S^g|VP^g 1 1 1 1,1,1:0.009615384615384616 
+binary @S -> NP^g|NNP , 1 1 1 1,1,1:0.04 
+binary S^g|VP^g -> VBG S^g|VP^g 1 1 1 1,1,1:0.1 
+binary NP^g -> NP^g|JJ NP^g 1 1 1 1,1,1:0.004975124378109453 
+binary NP^g -> NNP NN 1 1 1 1,1,1:0.0035971223021582736 
+binary NP^g -> NP^g SBAR^g|S^g 1 1 1 1,1,1:0.0035971223021582736 
+binary @VP^g -> VBN NP^g|NNS 1 1 1 1,1,1:0.014084507042253521 
+binary S^g|VP^g -> @VP^g NP^g 1 1 1 1,1,1:0.30000000000000004 
+binary @VP^g -> VBP NP^g|NNS 1 1 1 1,1,1:0.014084507042253521 
+binary @VP^g -> @VP^g VBG 1 1 1 1,1,1:0.014084507042253521 
+binary @VP^g -> VBG CC 1 1 1 1,1,1:0.014084507042253521 
