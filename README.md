@@ -6,8 +6,6 @@ University of St Andrews
 ## Abstract
 In this project, spectral learning of latent-variable probabilistic context-free grammars is described, implemented and tested. Spectral learning, based on singular value decomposition, is used to extract probabilistic distribution of context-free rules accompanied by latent states as introduced by Cohen et al. (2012). The updated version of the original algorithm based on clustering (Narayan and Cohen, 2015) is implemented in Python. A pipeline to test the grammar accuracy is assembled and used in multiple experiments. The effect of training corpus size and number of latent states on accuracy is evaluated finding the minimum training corpus size of 20 thousand sentences for 8 latent states. Furthermore, for our implementation, 8 latent states are shown to be the optimum. Finally, the implementation is compared to that of Cohen et al. (2013) and the reasons for lower accuracy of the implementation are analysed.
 
-See report.pdf or poster.pdf for more information and analysis.
-
 ## Running the Code
 To run the spectral learning algorithm please follow the instructions:
 0. You need to have python 3 and virtual environment installed on your machine
@@ -53,6 +51,9 @@ To run the spectral learning algorithm please follow the instructions:
 
 ## Testing
 The output in the format above to be used with Rainbow Parser (https://github.com/shashiongithub/Rainbow-Parser). Parsing accuracy (F<sub>1</sub> score) can be calculated for example with Evalb bracket scoring program (https://nlp.cs.nyu.edu/evalb/).
+
+## Note
+See report.pdf or poster.pdf for more information, analysis and conclusions.
 
 ## References
 Cohen, S. B., Stratos, K., Collins, M., Foster, D. P., and Ungar, L. (2012). Spectral learning of latent-variable pcfgs.
